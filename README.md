@@ -1,8 +1,5 @@
 # Registration-Form-using-JSP-Servlet-JDBC-MySQL-DB
 
-![image](https://user-images.githubusercontent.com/87275026/176404147-32a09550-aaf2-4167-ae48-23c0b23a44bb.png)
-
-
 CREATE DATABASE `employees`
 
 CREATE TABLE `employee`(
